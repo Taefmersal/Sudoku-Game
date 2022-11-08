@@ -11,3 +11,5 @@ Some design pattern have been applied to this game :
 creational : singleton 
 structural : Facade
 behavioural : Template , state 
+
+![Sudoku Game (1)](https://user-images.githubusercontent.com/108003187/200562001-2e497006-5328-465c-ae27-08ad1da19641.png)
