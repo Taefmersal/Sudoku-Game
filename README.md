@@ -12,4 +12,7 @@ creational : singleton
 structural : Facade
 behavioural : Template , state 
 
-![Sudoku Game (1)](https://user-images.githubusercontent.com/108003187/200562001-2e497006-5328-465c-ae27-08ad1da19641.png)
+This is a class diagram for the game:
+
+
+![Sudoku Game (2)](https://user-images.githubusercontent.com/108003187/200562696-098e00a7-4abe-420d-a718-47bb371fadeb.png)
