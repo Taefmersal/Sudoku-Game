@@ -11,5 +11,3 @@ Some design pattern have been applied to this game :
 creational : singleton 
 structural : Facade
 behavioural : Template , state 
-
-this a class diagram for the game 
